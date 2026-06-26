@@ -1,0 +1,6 @@
+{
+  "name": "Dự Đoán Vô Địch World Cup",
+  "description": "Ứng dụng nhập danh sách quốc gia tham gia World Cup và mô phỏng thuật toán ngẫu nhiên dự đoán tỉ lệ vô địch với thanh tỉ lệ trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
